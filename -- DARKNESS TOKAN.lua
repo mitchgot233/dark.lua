@@ -1,4 +1,4 @@
--- DARKNESS TOKAN
+-- sense TOKAN
 local library = loadstring(game:HttpGet("https://raw.githubusercontent.com/rafael25ic-blip/phoenix-cracked/refs/heads/main/Librerya%20Phoenix%20Crack"))()
 
 -- OBTENER NOMBRE DEL JUGADOR
@@ -1377,4 +1377,5 @@ local features = window:AddTab("Stats Farm")
 
 local player = game.Players.LocalPlayer
 local leaderstats = player:WaitForChild("leaderstats")
+
 local strengthSta... (71 KB left)
